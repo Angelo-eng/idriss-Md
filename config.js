@@ -54,26 +54,23 @@ global.APIKeys = {
 
 
 //────────────────────────────
-global.imagen1 = ['./media/menu1.jpg']
-global.imagen4 = fs.readFileSync('./bixbyvision16.png')
-//────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
-global.author = '𝐌𝐝'
+global.packname = 'idriss'
+global.author = 'md'
 
 //────────────────────────────
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = 'idriss-Md'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
-global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
+global.wm = 'idriss-Md'
+global.wait = 'Wait...'
 
 //────────────────────────────
 
