@@ -33,5 +33,6 @@ const handler = async (m, { conn, usedPrefix: prefix, command, text }) => {
   }
 };
 handler.command = /^(apk)$/i;
+handler.limit = 10;
 export default handler;
 handler.premium = true
